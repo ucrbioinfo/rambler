@@ -93,7 +93,7 @@ This will create an output directory `rambler/output` and the reconstruced repea
 This will create a sub-directory `final` inside the previously created output directory `rambler/output` and the repeat reconstructed contig will be in `rambler/output/final/rambler_merged.fasta`.
 
 # Citation
-- Sakshar Chakravarty, Glennis Logsdon, Stefano Lonardi. RAmbler: de novo genome assembly of complex repetitive regions. bioRxiv 2023.05.26.542525; doi: https://doi.org/10.1101/2023.05.26.542525  
+- Sakshar Chakravarty, Glennis Logsdon, and Stefano Lonardi. RAmbler resolves complex repeats in human Chromosomes 8, 19, and X. Genome Research. Published in Advance March 4, 2025. doi: https://doi.org/10.1101/gr.279308.124  
 or
 - Sakshar Chakravarty, Glennis Logsdon, and Stefano Lonardi. 2023. RAmbler: de novo genome assembly of complex repetitive regions. In 14th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’23), September 3–6, 2023, Houston, TX, USA. ACM, New York, NY, USA, 1 page. https://doi.org/10.1145/3584371.3612971 
 
